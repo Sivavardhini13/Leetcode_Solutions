@@ -1,4 +1,4 @@
-# Leetcode : 56
+# Leetcode 56 : Merge Intervals
 # Difficulty : Medium
 
 class Solution:
