@@ -1,4 +1,4 @@
-# Leetcode : 49
+# Leetcode : Group Anagrams
 # Difficulty : Medium
 
 class Solution:
