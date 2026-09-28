@@ -10,3 +10,6 @@ class Solution:
                 new_nums.append(num)
             else:
                 count+=1
+        for i in range(count):
+            new_nums.append(0)
+        nums[:] = new_nums
