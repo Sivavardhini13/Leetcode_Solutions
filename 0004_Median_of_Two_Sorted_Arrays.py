@@ -1,5 +1,5 @@
-# LeetCode 4: Median of Two Sorted Arrays
-# Difficulty: Hard
+# LeetCode 4 : Median of Two Sorted Arrays
+# Difficulty : Hard
 # Time Complexity: O((m + n) log(m + n)) due to sorting
 # Space Complexity: O(m + n)
 
